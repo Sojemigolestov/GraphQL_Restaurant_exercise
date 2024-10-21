@@ -1,5 +1,5 @@
 {
-  "name": "expressgraphql01",
+  "name": "graphqlRestaurant",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
